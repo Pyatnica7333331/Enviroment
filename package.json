@@ -1,7 +1,7 @@
 {
   "name": "webpack5",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/2ixoh47vr5mcwlhh?svg=true)](https://ci.appveyor.com/project/Pyatnica7333331/Enviroment)",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/09a2xsdlan6j9vtm?svg=true)](https://ci.appveyor.com/project/Pyatnica7333331/enviroment)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js",
